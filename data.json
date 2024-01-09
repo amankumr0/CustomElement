@@ -1,0 +1,54 @@
+{
+    "deliveryLocations": [
+        {
+            "pincode": "110001",
+            "estimatedDeliveryDays": 2,
+            "locationName": "Connaught Place, Delhi"
+        },
+        {
+            "pincode": "400001",
+            "estimatedDeliveryDays": 3,
+            "locationName": "Fort, Mumbai"
+        },
+        {
+            "pincode": "700001",
+            "estimatedDeliveryDays": 4,
+            "locationName": "Dalhousie Square, Kolkata"
+        },
+        {
+            "pincode": "600001",
+            "estimatedDeliveryDays": 3,
+            "locationName": "Parrys Corner, Chennai"
+        },
+        {
+            "pincode": "500001",
+            "estimatedDeliveryDays": 2,
+            "locationName": "Afzal Gunj, Hyderabad"
+        },
+        {
+            "pincode": "110020",
+            "estimatedDeliveryDays": 5,
+            "locationName": "Hauz Khas, Delhi"
+        },
+        {
+            "pincode": "400020",
+            "estimatedDeliveryDays": 4,
+            "locationName": "Worli, Mumbai"
+        },
+        {
+            "pincode": "700020",
+            "estimatedDeliveryDays": 3,
+            "locationName": "Salt Lake City, Kolkata"
+        },
+        {
+            "pincode": "600020",
+            "estimatedDeliveryDays": 2,
+            "locationName": "Anna Nagar, Chennai"
+        },
+        {
+            "pincode": "500020",
+            "estimatedDeliveryDays": 4,
+            "locationName": "Banjara Hills, Hyderabad"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="PinChecker.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <pin-check>
+            <input type="number" placeholder="PIN CODE" id="pinInput">
+            <button type="submit" id="pinButton">Check</button>
+            <div id="message">
+            </div>
+        </pin-check>
+    </div>
+    <script>
+        // document.querySelector("#pinInput").addEventListener('keypress', function (e) { console.log(e.target.value); e.preventDefault(); })
+        // document.querySelector("#pinInput").addEventListener('keypress', function (e) {
+        //     if (e.which < 48 || e.which > 57 || e.target.value.length >= 6) {
+        //         e.preventDefault();
+        //     }
+        // })
+
+        // var someDate = new Date();
+        // var numberOfDaysToAdd = 2;
+        // var result = someDate.setDate(someDate.getDate() + numberOfDaysToAdd);
+        // someDate = new Date(result)
+        // console.log(`${someDate.toLocaleDateString('en-US', { weekday: "short" })}, ${someDate.getDate()} ${someDate.toLocaleString('en-us', { month: 'short' })}`)
+    </script>
+</body>
+
+</html>
